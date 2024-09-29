@@ -30,7 +30,7 @@ Projeto de integração entre Frontend (utilizando React, bem como HTML, CSS e B
    
    `npm start`
    
-  Alternativamente, você pode abrir essa pasta *my-app* através de um editor de código como **VS Code (Visual Studio Code)**, abrir um terminal nessa pasta e utilizar também:
+   Alternativamente, você pode abrir essa pasta *my-app* através de um editor de código como **VS Code (Visual Studio Code)**, abrir um terminal nessa pasta e utilizar também:
    
    `npm start`
    
