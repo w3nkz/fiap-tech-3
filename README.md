@@ -49,9 +49,11 @@ Na página inicial, é possível navegar para 2 outras páginas diferentes: **Li
 2. A página **Adicionar Livro** permite que você adicione um livro de sua preferência, colocando-o no catálogo de livros.
    
    `Tempos Líquidos`
+   
    `Zygmunt Bauman`
+   
    `Zahar`
    
-3. A página **Visualizar** exibe apenas um livro específico, sendo possível **Editar**, **Deletar** ou Voltar à página de catálogo
-4. A página **Editar Livro** permite que você faça alterações ao livro escolhido.
+4. A página **Visualizar** exibe apenas um livro específico, sendo possível **Editar**, **Deletar** ou Voltar à página de catálogo
+5. A página **Editar Livro** permite que você faça alterações ao livro escolhido.
    
