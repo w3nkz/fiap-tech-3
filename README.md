@@ -6,7 +6,7 @@ Projeto de integração entre Frontend (utilizando React, bem como HTML, CSS e B
 
 ## Passos para executar o Projeto 
 
-1. Antes de qualquer coisa, é necessário que tenha-se todo o **[projeto do backend](https://github.com/pgpribeiro/node-express-mongo-api)**, seguindo as instruções contidas no repositório. (realizado no Tech Challenge da Fase 2).
+1. Antes de qualquer coisa, é necessário que tenha-se todo o **[projeto do backend](https://github.com/pgpribeiro/node-express-mongo-api)**, seguindo as instruções contidas no repositório (mantendo os containers do Docker ativos).
 
 2. Instalar **[Node.js](https://nodejs.org/en/)** caso ainda não tenha.
  
