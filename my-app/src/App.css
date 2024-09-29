@@ -1,0 +1,23 @@
+/* App.css */
+body {
+  background-color: #ffea6f;
+  font-family: 'Playfair Display', serif;
+}
+
+.btn-light-purple {
+  background-color: #e2fffa;
+  border: none;
+  color: black;
+}
+
+.align-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  padding-bottom: 40px;
+}
+
+.large-text {
+  font-size: 4rem;
+  margin: 0;
+}
