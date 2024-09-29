@@ -11,12 +11,14 @@ Projeto de integração entre Frontend (utilizando React, bem como HTML, CSS e B
 2. Instalar **[Node.js](https://nodejs.org/en/)** caso ainda não tenha.
  
 3. Através do Console de Comando, instalar cors, mongoose e express:
+   ```b
+   npm install express
 
-   `npm install express`
+   npm install mongoose
 
-   `npm install mongoose`
+   npm install cors
+   ```
 
-   `npm install cors`
 
 4. Clonar este repositório através do **Git** (instalado na Fase 2).
  
