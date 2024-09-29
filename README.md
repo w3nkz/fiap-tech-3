@@ -49,12 +49,13 @@ Projeto de integração entre Frontend (utilizando React, bem como HTML, CSS e B
 Na página inicial, é possível navegar para 2 outras páginas diferentes: **Livros** (catálogo) e **Adicionar Livro** (realizar POST através do Frontend)
 1. A página **Livros** permite **Visualizar**, **Editar** ou **Deletar** o livro específico (GET, PUT e DELETE, respectivamente)
 2. A página **Adicionar Livro** permite que você adicione um livro de sua preferência, colocando-o no catálogo de livros.
-   
+   ```b
    `Tempos Líquidos`
    
    `Zygmunt Bauman`
    
    `Zahar`
+   ```
    
 4. A página **Visualizar** exibe apenas um livro específico, sendo possível **Editar**, **Deletar** ou Voltar à página de catálogo
 5. A página **Editar Livro** permite que você faça alterações ao livro escolhido.
