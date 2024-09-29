@@ -22,15 +22,20 @@ Projeto de integração entre Frontend (utilizando React, bem como HTML, CSS e B
  
 5. Realizar a instalação da extensão ['Moesif CORS'](https://chromewebstore.google.com/detail/moesif-origincors-changer/digfbfaphojjndkpccljibejjbppifbc) no Google Chrome, deixando-a habilitada.
 
-## Iniciando a aplicação React
+## Criando a aplicação React
+6. Na pasta de sua preferência, crie a aplicação React pelo Console de Comando:
 
-6. Inicie a aplicação react na pasta *my-app* (clonada pelo Git) através do Console de Comando, utilizando comandos como:
+   `npx create-react-app [nome desejado da aplicação]`
+
+7. Copie os arquivos do repositório clonado para essa nova pasta React, sobrescrevendo os arquivos.
+   
+6. Inicie a aplicação react na pasta React que você criou através do Console de Comando, utilizando comandos como:
  
-   `cd my-app`
+   `cd [sua pasta]`
    
    `npm start`
    
-   Alternativamente, você pode abrir essa pasta *my-app* através de um editor de código como **VS Code (Visual Studio Code)**, abrir um terminal nessa pasta e utilizar também:
+   Alternativamente, você pode abrir essa pasta através de um editor de código como **VS Code (Visual Studio Code)**, abrir um terminal nessa pasta e utilizar também:
    
    `npm start`
    
