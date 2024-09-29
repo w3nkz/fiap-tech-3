@@ -12,11 +12,11 @@ Projeto de integração entre Frontend (utilizando React, bem como HTML, CSS e B
  
 3. Através do Console de Comando, instalar cors, mongoose e express:
 
-`npm install express`
+   `npm install express`
 
-`npm install mongoose`
+   `npm install mongoose`
 
-`npm install cors`
+   `npm install cors`
 
 4. Clonar este repositório através do **Git** (instalado na Fase 2).
  
@@ -30,9 +30,10 @@ Projeto de integração entre Frontend (utilizando React, bem como HTML, CSS e B
    
    `npm start`
    
-   Alternativamente, você pode abrir essa pasta *my-app* através de um editor de código como **VS Code (Visual Studio Code)**, abrir um terminal nessa pasta e utilizar também:
+Alternativamente, você pode abrir essa pasta *my-app* através de um editor de código como **VS Code (Visual Studio Code)**, abrir um terminal nessa pasta e utilizar também:
    
    `npm start`
+   
    
 7. Abrir o endereço http://localhost:3006 no Google Chrome para a página inicial da aplicação (o React geralmente abre essa página sozinho).
    
