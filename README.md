@@ -29,7 +29,7 @@ Projeto de integração entre Frontend (utilizando React, bem como HTML, CSS e B
 
 7. Copie os arquivos do repositório clonado para essa nova pasta React, sobrescrevendo os arquivos.
    
-6. Inicie a aplicação react na pasta React que você criou através do Console de Comando, utilizando comandos como:
+8. Inicie a aplicação react na pasta React que você criou através do Console de Comando, utilizando comandos como:
  
    `cd [sua pasta]`
    
@@ -40,5 +40,18 @@ Projeto de integração entre Frontend (utilizando React, bem como HTML, CSS e B
    `npm start`
    
    
-7. Abrir o endereço http://localhost:3006 no Google Chrome para a página inicial da aplicação (o React geralmente abre essa página sozinho).
+9. Abrir o endereço http://localhost:3006 no Google Chrome para a página inicial da aplicação (o React geralmente abre essa página sozinho).
+
+## Realizando CRUD no Frontend
+
+Na página inicial, é possível navegar para 2 outras páginas diferentes: **Livros** (catálogo) e **Adicionar Livro** (realizar POST através do Frontend)
+1. A página **Livros** permite **Visualizar**, **Editar** ou **Deletar** o livro específico (GET, PUT e DELETE, respectivamente)
+2. A página **Adicionar Livro** permite que você adicione um livro de sua preferência, colocando-o no catálogo de livros.
+   
+   `Tempos Líquidos
+    Zygmunt Bauman
+    Zahar`
+   
+3. A página **Visualizar** exibe apenas um livro específico, sendo possível **Editar**, **Deletar** ou Voltar à página de catálogo
+4. A página **Editar Livro** permite que você faça alterações ao livro escolhido.
    
