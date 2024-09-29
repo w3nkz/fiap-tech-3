@@ -56,4 +56,11 @@ Na página inicial, é possível navegar para 2 outras páginas diferentes: **Li
    
 4. A página **Visualizar** exibe apenas um livro específico, sendo possível **Editar**, **Deletar** ou Voltar à página de catálogo
 5. A página **Editar Livro** permite que você faça alterações ao livro escolhido.
+
+# Frontend 
+
+http://localhost:3006
+# Backend 
+
+http://localhost:3000/livros
    
