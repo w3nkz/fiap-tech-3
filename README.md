@@ -24,7 +24,7 @@ Projeto de integração entre Frontend (utilizando React, bem como HTML, CSS e B
  
 5. Realizar a instalação da extensão ['Moesif CORS'](https://chromewebstore.google.com/detail/moesif-origincors-changer/digfbfaphojjndkpccljibejjbppifbc) no Google Chrome, deixando-a habilitada.
 
-## Criando a aplicação React
+## Criando e executando a aplicação React
 6. Na pasta de sua preferência, crie a aplicação React pelo Console de Comando:
 
    `npx create-react-app [nome desejado da aplicação]`
